@@ -1,0 +1,15 @@
+/home/rb/source/long-file-renamer/bin/Debug/net6.0/long-file-renamer
+/home/rb/source/long-file-renamer/bin/Debug/net6.0/long-file-renamer.deps.json
+/home/rb/source/long-file-renamer/bin/Debug/net6.0/long-file-renamer.runtimeconfig.json
+/home/rb/source/long-file-renamer/bin/Debug/net6.0/long-file-renamer.dll
+/home/rb/source/long-file-renamer/bin/Debug/net6.0/long-file-renamer.pdb
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/long-file-renamer.csproj.AssemblyReference.cache
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/long-file-renamer.GeneratedMSBuildEditorConfig.editorconfig
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/long-file-renamer.AssemblyInfoInputs.cache
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/long-file-renamer.AssemblyInfo.cs
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/long-file-renamer.csproj.CoreCompileInputs.cache
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/long-file-renamer.dll
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/refint/long-file-renamer.dll
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/long-file-renamer.pdb
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/long-file-renamer.genruntimeconfig.cache
+/home/rb/source/long-file-renamer/obj/Debug/net6.0/ref/long-file-renamer.dll
