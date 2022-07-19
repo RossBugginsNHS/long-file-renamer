@@ -6,7 +6,7 @@ Contains public sector information licensed under the Open Government Licence v3
 http://www.nationalarchives.gov.uk/doc/open-government-licence/) provided by Citizen Experience, Transformation Directorate 
 NHS England and Improvement, containing data and software made available at
 https://github.com/RossBugginsNHS/long-file-renamer 
-The full  licence can be found at https://github.com/RossBugginsNHS/long-file-renamer/blob/main/LICENSE.md
+The full  licence can be found at https://github.com/RossBugginsNHS/long-file-renamer/blob/master/LICENSE.md
 
 
 ## Open Government Licence v3.0
